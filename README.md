@@ -1,1 +1,1 @@
-# netology-diplom
+# Дипломный проект на курсе Fullstack-разработчик на JavaScript» - Ахчи Дмитрий
